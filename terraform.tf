@@ -1,4 +1,4 @@
-terraform {
+# terraform {
 
   # cloud {
   #   organization = "mechaniccoder"
@@ -16,4 +16,4 @@ terraform {
   # }
 
   # required_version = ">= 0.14.0"
-}
+# }
